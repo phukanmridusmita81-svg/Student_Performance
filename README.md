@@ -10,9 +10,9 @@
 This project is a **Power BI Capstone Dashboard** that analyses student academic performance across multiple dimensions including subjects, streams, gender, attendance, and study habits.
 
 **Student Details:**
-- **Name:** [Your Full Name]
-- **Roll No:** [Your Roll Number]
-- **Batch/Program:** [Your Batch Name]
+- **Name:** [Mridusmita Phukan]
+- **Roll No:** [2306339]
+- **Batch/Program:** [Information Technology]
 - **Submission Date:** April 21, 2026
 
 ---
